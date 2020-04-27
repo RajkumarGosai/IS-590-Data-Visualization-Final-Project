@@ -63,7 +63,7 @@ This high death percentage might vary in the sense that 50% of population in Ita
 
 ### Conclusion:
 
-#### 
+
 1.	US has the greatest number of COVID-19 cases than any other country in the world.
 2.	New York is the worst hit state in the US by COVID-19 where the total number of cases in a single state is higher than the total number of cases in the Spain which is the second worst hit country by the virus
 3.	Total number of deaths is much higher than that in New York
@@ -72,7 +72,6 @@ This high death percentage might vary in the sense that 50% of population in Ita
 
 ### References:
 
-#### 
 1.	https://plotly.com/python/reference/#choropleth
 2.	https://plotly.com/python/figure-labels/
 3.	https://plotly.com/python/choropleth-maps/
