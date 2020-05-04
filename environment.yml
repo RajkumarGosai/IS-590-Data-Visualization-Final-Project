@@ -7,6 +7,7 @@ dependencies:
   - cartopy
   - geopandas
   - plotly
+  - seaborn
   - pip:
     - nbgitpuller
     - sphinx-gallery
