@@ -5,10 +5,10 @@ dependencies:
   - python
   - numpy
   - cartopy
+  - geopandas
+  - plotly
   - pip:
     - nbgitpuller
     - sphinx-gallery
     - pandas
     - matplotlib
-    - plotly
-    - geopandas
